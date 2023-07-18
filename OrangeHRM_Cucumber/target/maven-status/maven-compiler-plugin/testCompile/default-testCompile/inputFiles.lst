@@ -1,0 +1,10 @@
+/Users/sabina/Downloads/OrangeHRM_Cucumber 2/src/test/java/com/cucumber/pages/AddUserAction.java
+/Users/sabina/Downloads/OrangeHRM_Cucumber 2/src/test/java/com/cucumber/pages/LoginAction.java
+/Users/sabina/Downloads/OrangeHRM_Cucumber 2/src/test/java/com/cucumber/pages/AddEditVacancy.java
+/Users/sabina/Downloads/OrangeHRM_Cucumber 2/src/test/java/com/cucumber/runners/CucumberTestSuite.java
+/Users/sabina/Downloads/OrangeHRM_Cucumber 2/src/test/java/com/cucumber/stepdefs/AddUserStepDefs.java
+/Users/sabina/Downloads/OrangeHRM_Cucumber 2/src/test/java/com/cucumber/pages/VacancyAddDelete.java
+/Users/sabina/Downloads/OrangeHRM_Cucumber 2/src/test/java/com/cucumber/stepdefs/LoginStepDefs.java
+/Users/sabina/Downloads/OrangeHRM_Cucumber 2/src/test/java/com/cucumber/stepdefs/VacancyAddEditDefs.java
+/Users/sabina/Downloads/OrangeHRM_Cucumber 2/src/test/java/com/cucumber/stepdefs/VacancyDeleteDefs.java
+/Users/sabina/Downloads/OrangeHRM_Cucumber 2/src/test/java/com/cucumber/tests/LoginTest.java
